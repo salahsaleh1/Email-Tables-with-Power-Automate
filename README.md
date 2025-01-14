@@ -14,7 +14,7 @@ Declare another variable of type 'array' and using split function, create substr
 
 ```
 split(variables('inputVariable'), decodeUriComponent('%0A'))
-
+```
 
 Output of the step will create an array
 ![image](https://github.com/user-attachments/assets/5798d527-ed88-4283-8c15-6439bf89db23)
