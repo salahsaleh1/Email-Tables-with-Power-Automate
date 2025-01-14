@@ -15,3 +15,15 @@ Declare another variable of type 'array' and using split function, create substr
 ```
 split(variables('inputVariable'), decodeUriComponent('%0A'))
 
+
+Output of the step will create an array
+![image](https://github.com/user-attachments/assets/5798d527-ed88-4283-8c15-6439bf89db23)
+
+
+Declare a new array variable. Using For-loop, read the contents of the above array and append the contents to the new array variable as a Attribute-Value pair.
+
+This is achieved using Append to Array variable.
+![image](https://github.com/user-attachments/assets/2f66913f-4164-446f-934b-bf6e98d00ccd)
+![image](https://github.com/user-attachments/assets/e5d5d1a5-9048-45a9-8f8f-d67390d0440a)
+
+
