@@ -7,7 +7,7 @@ Let us see how to convert the data in String sent as a table via Email.
 
 Initialize a variable with your string.
 <p align="center">
-![image](https://github.com/user-attachments/assets/17f366ac-fb0a-4ff8-9ee3-846218fe3146)
+<img src="https://github.com/user-attachments/assets/17f366ac-fb0a-4ff8-9ee3-846218fe3146" alt=PowerAutomate">
 </p>
 
 Declare another variable of type 'array' and using split function, create substrings for each line.
