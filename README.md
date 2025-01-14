@@ -12,6 +12,8 @@ Initialize a variable with your string.
 Declare another variable of type 'array' and using split function, create substrings for each line.
 ```
 split(variables('inputVariable'), decodeUriComponent('%0A'))
+
+
 ![image](https://github.com/user-attachments/assets/8f66f91c-20e3-4f61-96d6-193a54eea118)
 
 
