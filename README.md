@@ -31,4 +31,7 @@ This is achieved using Append to Array variable.
   <img src="https://github.com/user-attachments/assets/2f66913f-4164-446f-934b-bf6e98d00ccd" alt=PowerAutomate">
   <img src="https://github.com/user-attachments/assets/e5d5d1a5-9048-45a9-8f8f-d67390d0440a" alt=PowerAutomate">
 </p>  
-
+```
+trim(first(split(item(),':')))
+trime(replace(item(),concat(first(split(item(),':')),':'),''))
+```
